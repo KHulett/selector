@@ -26,7 +26,6 @@ class Selector extends Component {
           <Shape shape = "square" selectShape={this.selectShape}/>
           <Shape shape = "circle"selectShape={this.selectShape}/>
           <Shape shape = "triangle"selectShape={this.selectShape}/>
-          Add the shape component here!!
         </div>
       </div>
 
